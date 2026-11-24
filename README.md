@@ -8,10 +8,10 @@ Entry for the [One-Line Office Joke: 24-Hour Sprint](https://make.fun/bounty/u-p
 
 ## The joke
 
-> Our office printer has been 'warming up' since Tuesday, which makes it the longest relationship anyone in this building has ever had.
+> My annual review asked me to rate my own teamwork, so I gave myself five stars and a meeting to discuss why I deserved them.
 
-One line, 133 characters, one sentence: a printer stuck on "warming up"
-is the most committed relationship in the building.
+One line, 124 characters, one sentence: asked to rate your own teamwork,
+you award yourself five stars — then need a meeting to justify them.
 
 ## How it works
 

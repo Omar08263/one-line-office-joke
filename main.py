@@ -4,17 +4,17 @@
 Writes a single one-line joke about office life to /output/entry.txt
 (or $MAKEFUN_OUTPUT_DIR/entry.txt). Deterministic, no network, no input.
 
-The joke: a printer that has been "warming up" since Tuesday is the most
-committed relationship in the building -- a specific, familiar office
-detail with a surprise payoff, in one tight sentence.
+The joke: asked to rate your own teamwork in an annual review, you give
+yourself five stars -- then need a meeting to justify them. A specific,
+familiar office ritual with a double-irony payoff, in one tight sentence.
 """
 
 import os
 import sys
 
 JOKE = (
-    "Our office printer has been 'warming up' since Tuesday, which makes "
-    "it the longest relationship anyone in this building has ever had."
+    "My annual review asked me to rate my own teamwork, so I gave myself "
+    "five stars and a meeting to discuss why I deserved them."
 )
 
 MAX_CHARS = 200
